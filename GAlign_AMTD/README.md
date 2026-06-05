@@ -1,5 +1,5 @@
 # GAlign
-Code of the paper: ***[Adaptive Network Alignment with Multi-order Convolutional Networks](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a085/290300a085.pdf)***.
+Code of the paper: ***[Shaobo Ren, Zhen Liu, Haiyang Ren, Tongle Duan, Shuhang Gu, DDNA: Dual-diffusion-enhanced network alignment, Knowledge-Based Systems, Volume 348, 2026, 116361.]***.
 
 # Environment
 
@@ -26,4 +26,4 @@ python -u network_alignment.py --source_dataset graph_data/douban/online/graphsa
 
 Please politely cite our work as follows:
 
-*Huynh Thanh Trung, Tong Van Vinh, Nguyen Thanh Tam, Hongzhi Yin, Matthias Weidlich, Nguyen Quoc Viet Hung. Adaptive Network Alignment with Multi-order Convolutional Networks. In: ICDE 2020*
+*Shaobo Ren, Zhen Liu, Haiyang Ren, Tongle Duan, Shuhang Gu, DDNA: Dual-diffusion-enhanced network alignment, Knowledge-Based Systems, Volume 348, 2026, 116361.*
